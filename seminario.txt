@@ -1,0 +1,70 @@
+PROMPT SENCILLO:
+
+Redacta un informe sobre cómo está influyendo la IA en el mundo audiovisual,
+tanto en el cine y TV, como en publicidad e internet. Incluye la empresa que le
+compró Netflix a Ben Affleck, la evolución de la generación de vídeo, las principales
+empresas de IA, ejemplos de planos hecho con IA en ficción, como en La sociedad de la
+nieve o El Eternauta, y posibles escenarios.
+
+
+PROMPT MEJORADO:
+
+Rol: Actúa como un consultor estratégico de la industria del entretenimiento y experto
+en tecnología cinematográfica.
+
+Contexto: La inteligencia artificial generativa ha dejado de ser una herramienta de
+preproducción para convertirse en un motor central del ecosistema audiovisual global,
+transformando el cine, la televisión, la publicidad y el contenido nativo de internet.
+
+Tarea: Realiza un informe analítico exhaustivo sobre el impacto actual y los escenarios
+futuros de la IA en el mundo audiovisual. Para estructurar tu respuesta, debes abordar
+obligatoriamente los siguientes ejes temáticos:
+
+1. El movimiento corporativo de la distribución:
+Analiza la estrategia de Netflix al adquirir InterPositive (la empresa de tecnología de cine
+y herramientas de IA fundada por Ben Affleck por hasta 600 millones de dólares).
+Explica qué señal envía esto a la industria en términos de propiedad de modelos de IA
+entrenados en entornos controlados y sets de rodaje.
+
+2. Evolución técnica de la generación de vídeo:
+Detalla la evolución desde los primeros clips deformes de pocos segundos basados en difusión,
+pasando por la consistencia física de modelos de vanguardia (como Sora, Luma Dream Machine,
+Kling o Runway Gen-3), hasta la llegada de modelos de video cinematográfico de alta fidelidad con
+simulación física y control de cámara nativo. Menciona el rol de las principales empresas del sector
+(OpenAI, Runway, Google, Meta, Midjourney).
+
+3. Casos de uso reales en ficción (VFX y composición):
+Examina cómo se integra la IA en producciones de primer nivel sin romper el fotorrealismo.
+Analiza estos dos ejemplos específicos:
+
+- 'La sociedad de la nieve': El uso de herramientas de IA y entornos 3D en Unreal Engine
+(fotogrametría y mapeo satelital de Los Andes) para planificar planos, mover cámaras virtuales
+con ópticas reales y fusionar Sierra Nevada con el Valle de las Lágrimas.
+
+- 'El Eternauta' (Netflix): El uso documentado de IA generativa junto a Eyeline Studios para acelerar
+exponencialmente la creación de VFX específicos (como la secuencia del derrumbe del edificio en los
+últimos episodios), logrando flujos de trabajo hasta 10 veces más rápidos.
+
+4. Impacto multisectorial (Publicidad e internet):
+Compara cómo la IA afecta la producción de cine/TV de alto presupuesto (donde se prioriza el control
+pixel a pixel y la asistencia al artista) frente a la publicidad y los creadores de internet
+(donde la velocidad, la personalización automatizada de anuncios y la generación completa de contenido
+de bajo coste son la prioridad).
+
+5. Escenarios futuros y dilemas:
+Plantea dos escenarios a 5 años: uno donde la IA democratiza el cine permitiendo a creadores
+independientes hacer superproducciones desde su casa, y otro de saturación de contenido automatizado.
+Incluye brevemente el debate sobre los derechos de autor, el uso de datos de entrenamiento y la
+protección del trabajo humano.
+
+
+Formato de salida:
+Utiliza una redacción profesional pero accesible, estructurada con títulos claros, datos preciso
+y un tono analítico propio de un tecnólogo de Hollywood.
+
+ 
+PROMPT DEL METAPROMPT:
+
+Tu rol es el de ingeniero de prompting e investigación científica, especialista en Gemini. Edita y
+mejora este prompt para que sea profesional. Hazme las cuatro preguntas que necesites para mejorarlo.
+No lo ejecutes, solo edítalo.  “””Aquí incluir el prompt mejorado”””
